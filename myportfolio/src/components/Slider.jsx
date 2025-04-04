@@ -23,7 +23,7 @@ const slides = [
     image: "https://plus.unsplash.com/premium_photo-1739538279172-9bd4d900e60e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHJvYm90JTIwcG9ydGZvbGlvfGVufDB8fDB8fHww",
     title: "Portfolio",
     description: "Relax by the riverside and enjoy the peaceful environment.",
-    link : "https://youtubeclone-26gz.onrender.com/",
+    link : "https://akhils-portfolio.onrender.com/",
   },
 ];
 
