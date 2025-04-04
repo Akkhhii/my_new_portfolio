@@ -61,7 +61,7 @@ const Slider = () => {
             <div className={`slider-text absolute ${theme ? 'bg-white/70' : 'bg-black/60'} bottom-0 w-full shadow-xl rounded-b-2xl flex flex-col`}>
               <h2 className="text-md lg:text-2xl font-semibold">{slide.title}</h2>
               <p className="text-sm lg:text-lg">{slide.description}</p>
-              <button className={`view-btn text-sm w-[50%] md:w-[30%] rounded-md font-semibold bg-zinc-800 text-white`}><a href={slide.link}>View Live</a></button>
+              <a href={slide.link}><button className={`view-btn text-sm w-[50%] md:w-[30%] rounded-md font-semibold bg-zinc-800 text-white`}>View Live</button></a>
             </div>
           </SwiperSlide>
         ))}
