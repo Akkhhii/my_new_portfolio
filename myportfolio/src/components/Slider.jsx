@@ -11,7 +11,7 @@ const slides = [
     image: "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hhdCUyMGFwcHxlbnwwfHwwfHx8MA%3D%3D",
     title: "Chat Application",
     description: "Created a real-time chat application where users can register and chat with other registered users. Utilized Socket.IO for event-driven, real-time web interactions.",
-    link : "https://chat-buddy-uo0x.onrender.com/login",
+    link : "https://chat-buddy-uo0x.onrender.com",
   },
   {
     image: "https://images.unsplash.com/photo-1642726197634-2a21f764220a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHlvdXR1YmUlMjBjbG9uZXxlbnwwfHwwfHx8MA%3D%3D",
